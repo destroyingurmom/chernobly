@@ -10,14 +10,11 @@ h1 {
 }
 
 p {
- color: #781d1d;
- font-size: 20px;
+  color: #781d1d;
+ font-size: 10px;
  font: Arial, sans-serif;
 }
-p1 {
- color: #32CD32;
- font-size: 12px;
-}
+
 .button {
   background-color: #7a8069;
   border: none;

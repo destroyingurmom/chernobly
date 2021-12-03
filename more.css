@@ -3,7 +3,7 @@ body {
  background-repeat: no-repeat;
  background-color: #979996;
  background-size: 1140px 1000px;
- background-position: 100px 8px;
+ background-position: 100px 50px;
 }
 h1 {
   color: #54322c;
@@ -92,3 +92,17 @@ p {
 }
 
 /* Opera < 12.1 */
+
+.img-with-text {
+    display: block;
+     margin:0px 300px;
+      width: [200];
+      height : [150];
+}
+
+
+p1 {
+  color: #781d1d;
+ font-size: 12px;
+ font: Arial, sans-serif;
+}
