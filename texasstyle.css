@@ -8,7 +8,11 @@ body {
 h1 {
   color: #54322c;
 }
-
+p1 {
+ color: #FFFFFF;
+ font-size: 12px;
+ font: Arial, sans-serif;
+} 
 p {
  color: #781d1d;
  font-size: 20px;
